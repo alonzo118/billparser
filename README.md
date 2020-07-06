@@ -30,7 +30,7 @@ SRES 39: This resolution commemorates the 100th anniversary of the American Farm
 
 
 # Running Locally
-####Note: This application runs on Python 3.6 or greater.
+#### **Note:** This application runs on Python 3.6 or greater.
 ### 1. Installing Python
 If your operating system does not provide you with a Python package, you can download an installer from the [Python official website](https://www.python.org/downloads/). Opening a terminal window and typing pthon3 should display the following:
 
